@@ -10,22 +10,6 @@ This project aims to analyze the financial and user data of MercadoLibre, the mo
 3. **Relate the search traffic to stock price patterns**
 4. **Create a time series model with Prophet**
 
-### Project Structure
-├── data
-│ ├── mercado_stock_price.csv
-│ ├── mercado_trends.csv
-│ ├── forecast_mercado_trends.csv
-├── notebooks
-│ ├── Step1_Unusual_Patterns.ipynb
-│ ├── Step2_Seasonality.ipynb
-│ ├── Step3_Relate_Search_Traffic_to_Stock_Prices.ipynb
-│ ├── Step4_Time_Series_Model_with_Prophet.ipynb
-├── README.md
-└── requirements.txt
-
-perl
-Copy code
-
 ### Steps and Instructions
 
 #### Step 1: Find Unusual Patterns in Hourly Google Search Traffic
@@ -64,7 +48,8 @@ Copy code
 2. **Build the Model**: Create and fit a time series forecasting model using Prophet.
 3. **Evaluate the Model**: Assess the model's performance and use it to make future predictions.
 
-    ![Time Series Forecast with Prophet](path/to/graph6.png)
+   ![Time Series Forecast with Prophet](https://github.com/alghalia/Forecasting-Net-Prophet/blob/main/images/forcasting%20the%20net%20prophet.png)
+
 
 ### Dependencies
 
